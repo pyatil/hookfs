@@ -14,7 +14,7 @@ HookFS was originally developed for [Namazu](https://github.com/osrg/namazu), bu
 
 ## Install
 
-    $ go get github.com/osrg/hookfs/hookfs
+    $ go get github.com/pyatil/hookfs/pkg/hookfs
 
 ## Running an Example
 
