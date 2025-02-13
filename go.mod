@@ -1,4 +1,4 @@
-module github.com/osrg/hookfs
+module github.com/pyatil/hookfs
 
 go 1.12
 
